@@ -1,6 +1,9 @@
 # homerent
 
-A new Flutter project.
+This project is demo purpose  to learn about design and Provider
+
+
+**Youtube** https://youtu.be/SmGaKNI6SLQ
 
 ## Getting Started
 
